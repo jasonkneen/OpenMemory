@@ -572,6 +572,13 @@ Expanded tables preserved.
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/jasonkneen">
+                    <img src="https://avatars.githubusercontent.com/u/502002?v=4" width="100;" alt="jasonkneen"/>
+                    <br />
+                    <sub><b>Jason Kneen</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/nullure">
                     <img src="https://avatars.githubusercontent.com/u/81895400?v=4" width="100;" alt="nullure"/>
                     <br />
@@ -606,6 +613,8 @@ Expanded tables preserved.
                     <sub><b>Elvoro</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/fparrav">
                     <img src="https://avatars.githubusercontent.com/u/9319430?v=4" width="100;" alt="fparrav"/>
@@ -613,8 +622,6 @@ Expanded tables preserved.
                     <sub><b>Felipe Parra</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/msris108">
                     <img src="https://avatars.githubusercontent.com/u/43115330?v=4" width="100;" alt="msris108"/>
@@ -627,13 +634,6 @@ Expanded tables preserved.
                     <img src="https://avatars.githubusercontent.com/u/123281216?v=4" width="100;" alt="DoKoB0512"/>
                     <br />
                     <sub><b>DoKoB0512</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/jasonkneen">
-                    <img src="https://avatars.githubusercontent.com/u/502002?v=4" width="100;" alt="jasonkneen"/>
-                    <br />
-                    <sub><b>Jason Kneen</b></sub>
                 </a>
             </td>
             <td align="center">
